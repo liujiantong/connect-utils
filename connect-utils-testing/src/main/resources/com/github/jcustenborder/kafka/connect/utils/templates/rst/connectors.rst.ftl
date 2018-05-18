@@ -20,3 +20,12 @@
 
     sinks/*
 </#if>
+
+
+.. toctree::
+    :maxdepth: 0
+    :caption: Schemas:
+    :hidden:
+
+    schemas
+    info

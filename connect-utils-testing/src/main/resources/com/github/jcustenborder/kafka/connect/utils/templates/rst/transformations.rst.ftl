@@ -8,3 +8,13 @@
     :glob:
 
     transformations/*
+
+
+
+.. toctree::
+    :maxdepth: 0
+    :caption: Schemas:
+    :hidden:
+
+    schemas
+    info
